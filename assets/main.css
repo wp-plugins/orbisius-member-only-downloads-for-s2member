@@ -1,0 +1,95 @@
+/* Product of Orbisius.com. Visit http://club.orbisius.com/ */
+.orbisius_s2member_downloads_only_container .app-hide {
+    display: none;
+}
+
+.orbisius_s2member_downloads_only_container .app-hide-force {
+    display: none !important;
+}
+
+.orbisius_s2member_downloads_only_container .app-form-field-error {
+    border-color: red;
+}
+
+.orbisius_s2member_downloads_only_container .app-serious-notice {
+    color: red;
+    font-weight: bold;
+}
+
+/* Common */
+.orbisius_s2member_downloads_only_container .app-alert-error {
+    background: #D54E21;
+    border: 1px solid #eee;
+    color: white;
+    padding: 3px;
+    text-align: center;
+}
+
+.orbisius_s2member_downloads_only_container .app-alert-success {
+    background: green;
+    border: 1px solid #eee;
+    color: white;
+    padding: 3px;
+    text-align: center;
+}
+
+.orbisius_s2member_downloads_only_container .app-alert-success a {
+    color: white;
+}
+
+.orbisius_s2member_downloads_only_container .app-alert-notice {
+    background: #FFEC8B;
+    border: 1px solid #eee;
+    padding: 3px;
+    text-align: center;
+}
+
+.orbisius_s2member_downloads_only_container .app-button-positive {
+    background: green;
+    color: white;
+    padding: 3px;
+    text-decoration: none;
+}
+
+.orbisius_s2member_downloads_only_container .app-button-negative {
+    background: red;
+    color: white;
+    padding: 3px;
+    text-decoration: none;
+}
+
+/* dlg button colouring */
+.orbisius_s2member_downloads_only_container .app-dialog-button-ok {
+    background: green !important;
+    color: white !important;
+}
+
+.orbisius_s2member_downloads_only_container .app-dialog-button-cancel {
+    background: red !important;
+    color: white !important;
+}
+
+.orbisius_s2member_downloads_only_container .app-button-left, .app-align-left{
+    float: left;
+}
+
+.orbisius_s2member_downloads_only_container .app-button-right, .orbisius_s2member_downloads_only_container .app-align-right {
+    float: right;
+}
+
+.orbisius_s2member_downloads_only_container .app-button-container {
+    padding:10px;
+    background: #ccc;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.orbisius_s2member_downloads_only_container .available-theme {
+    padding:10px;
+    border: 2px solid white; /* we need this because there is a shift otherwise on hover. */
+}
+
+.orbisius_s2member_downloads_only_container .available-theme:hover {
+    border: 2px solid #444;
+    background: #ccc;
+}
