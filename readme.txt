@@ -3,8 +3,9 @@ Contributors: lordspace
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7APYDVPBCSY9A
 Tags: wp,wordpress,orbisius,downloads,download,egd,file,files,digital downloads, download, downloads, e-commerce, e-downloads, e-store, ecommerce, eshop, mordauk, Pippin Williamson, pippinsplugins, selling, wp ecommerce
 Requires at least: 3.0
-Tested up to: 3.5.1
-Stable tag: 1.0.0
+Tested up to: 3.6.1
+Parent: s2member
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 This plugin allows you to display/hide download links to certain users who have certain membership level. Requires: S2Member
@@ -29,7 +30,7 @@ Paste links to your downloads. They could be links to Amazon S3.
 1. Requires the user to be logged in order to see the download link
 Example: [orb_s2member_dl url="http://file.zip"]
 
-2. Requires (explicitely) the user to be logged in order to see the download link. Can be turned off too by setting req_login=0
+2. Requires (explicitly) the user to be logged in order to see the download link. Can be turned off too by setting req_login=0
 Example: [orb_s2member_dl req_login=1 url="http://file.zip"]
 
 3. Requires the user to be logged and to have at least level 1 membership in order to see the download link
@@ -67,5 +68,9 @@ Go to http://club.orbisius.com and post suggestions in our forum for new feature
 
 == Changelog ==
 
+= 1.0.1 =
+* Fixed a typo in readme
+* Tested for WP 3.6.1
+
 = 1.0.0 =
-Initial release
+* Initial release

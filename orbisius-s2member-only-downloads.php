@@ -3,7 +3,7 @@
 Plugin Name: Orbisius Member Only Downloads for S2Member
 Plugin URI: http://club.orbisius.com/products/wordpress-plugins/orbisius-s2member-only-downloads/
 Description: S2Member extension plugin which allows you to display member only download links. You can also set a minimum level required in order for the download link to be displayed.
-Version: 1.0.0
+Version: 1.0.1
 Author: Svetoslav Marinov (Slavi)
 Author URI: http://orbisius.com
 */
