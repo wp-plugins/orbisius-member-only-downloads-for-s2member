@@ -5,7 +5,7 @@ Tags: wp,wordpress,orbisius,downloads,download,egd,file,files,digital downloads,
 Requires at least: 3.0
 Tested up to: 4.1
 Parent: s2member
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 
 This plugin allows you to display/hide download links to certain users who have certain membership level. Requires: S2Member
