@@ -3,7 +3,7 @@ Contributors: lordspace
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7APYDVPBCSY9A
 Tags: wp,wordpress,orbisius,downloads,download,egd,file,files,digital downloads, download, downloads, e-commerce, e-downloads, e-store, ecommerce, eshop, mordauk, Pippin Williamson, pippinsplugins, selling, wp ecommerce
 Requires at least: 3.0
-Tested up to: 3.6.1
+Tested up to: 4.1
 Parent: s2member
 Stable tag: 1.0.1
 License: GPLv2 or later
@@ -67,6 +67,10 @@ Then click on a theme and the plugin will create a child theme for you.
 Go to http://club.orbisius.com and post suggestions in our forum for new features that you'd like to see in this plugin or its extensions.
 
 == Changelog ==
+
+= 1.0.2 =
+* Tested with WP 4.1
+* Removed the Updater code that was supposed to be present only in Orbisius Premium plugins. Thanks WP Plugins team for the notice.
 
 = 1.0.1 =
 * Fixed a typo in readme
